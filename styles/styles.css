@@ -1,0 +1,66 @@
+nav {
+    background-color:rgb(106, 171, 255);
+    padding:10px;
+    text-align: center;
+}
+
+.navButtonHolder {
+    display:inline-block;
+    width:33%;
+}
+
+.navIcon {
+    vertical-align: middle;
+}
+
+#logoHolder {
+    display: inline-block;
+    width:33%;
+}
+
+#logo {
+    height:100px;
+    width:150px;
+}
+
+#homeMainContent {
+    background-color:rgb(42, 134, 255);
+    margin-top:50px;
+    margin-left:auto;
+    margin-right:auto;
+    height:450px;
+    width:500px;
+}
+
+#profilePictureHolder {
+    margin-left:auto;
+    margin-right:auto;
+    width:fit-content;
+}
+
+.largeProfilePicture {
+    width:250px;
+    height:250px;
+}
+
+#homeLargeProfilePicture {
+    margin-top:100px;
+}
+
+#homeButtonMenu {
+    background-color:peachpuff;
+    margin-top:50px;
+    margin-left:auto;
+    margin-right:auto;
+    padding:10px;
+    text-align:center;
+    width:500px;
+}
+
+.homeButtonOption {
+    width:100px;
+}
+
+.homeButtonOption:not(:first-child) {
+    margin-left:100px;
+}
